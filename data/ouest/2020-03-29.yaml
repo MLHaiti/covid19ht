@@ -1,0 +1,15 @@
+date: '2020-03-19'
+source: 
+  nom: Presidence
+  url: 'https://www.facebook.com/RTNH08/videos/1864537190342930/'
+nationale:
+  confirmes: 2
+  deces: 0
+  recupere: 0
+departementale:
+  - nom: Port-au-Prince
+    abbrev: PAP
+    confirme: 1
+    deces: 0
+    recupere: 0
+    
