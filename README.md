@@ -1,4 +1,4 @@
-# Coronas Virus COVID-10 - Haiti Dataset
+# Coronas Virus COVID-19 - Haiti Dataset
 Pour pallier a la fragmentation des information et la structuration des donnees ce depot contiendra toutes les informations officielles
 sur la propagation du Virus.
 
