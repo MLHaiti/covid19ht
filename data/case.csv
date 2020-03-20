@@ -1,0 +1,3 @@
+case_id,departement,commune,infection_case,confirmed,latitude,longitude
+10000001,Artibonite,Saint-Michel-de-l'Attalaye,Orphelinat,1,19.3720792,-72.348909
+10000002,Ouest,-,Importation France,1,-,-

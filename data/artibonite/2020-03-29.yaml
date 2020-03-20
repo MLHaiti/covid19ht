@@ -1,0 +1,15 @@
+date: '2020-03-19'
+source: 
+  nom: La presidence
+  url: 'https://twitter.com/moisejovenel'
+nationale:
+  confirmes: 2
+  deces: 0
+  recupere: 0
+departementale:
+  - nom: Saint-Michel-de-l'Attalaye
+    abbrev: SMA
+    confirme: 1
+    deces: 0
+    recupere: 0
+    

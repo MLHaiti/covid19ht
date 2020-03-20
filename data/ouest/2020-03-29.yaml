@@ -1,0 +1,15 @@
+date: '2020-03-19'
+source: 
+  nom: News Website (pas-confirme)
+  url: 'News Website'
+nationale:
+  confirmes: 2
+  deces: 0
+  recupere: 0
+departementale:
+  - nom: Port-au-Prince
+    abbrev: PAP
+    confirme: 1
+    deces: 0
+    recupere: 0
+    
